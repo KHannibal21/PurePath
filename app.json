@@ -22,7 +22,7 @@
       "predictiveBackGestureEnabled": false,
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyBTD5OJJzyl7VkERcD_J7iOt8MXllmYbDg"
+          "apiKey": ""
         }
       },
       "permissions": [
